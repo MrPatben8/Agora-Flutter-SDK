@@ -1,4 +1,4 @@
-# agora_rtc_engine
+# amba_rtc_engine
 
 <p align="center">
     <a href="https://pub.dev/packages/agora_rtc_engine"><img src="https://img.shields.io/pub/likes/agora_rtc_engine?logo=dart" alt="Pub.dev likes"/></a>
